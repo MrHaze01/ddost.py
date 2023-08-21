@@ -3,8 +3,8 @@
 Powerful DDOS TOOL
 CREATE IN PYTHON LANGUAGE
 
-# REQUEST PER SECOND
-PICTURE: https://github.com/MrHaze01/ddost.py/blob/main/chart.jpeg
+# TOTAL REQUEST
+![image](https://www.linkpicture.com/q/orca-image-956701022.jpeg)
 
 # TERMUX INSTALLATION
 

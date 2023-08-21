@@ -8,8 +8,6 @@ CREATE IN PYTHON LANGUAGE
 
 # TERMUX INSTALLATION
 
-termux-setup-storage
-
 apt install git
 
 pkg install git

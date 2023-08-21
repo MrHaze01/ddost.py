@@ -4,7 +4,7 @@ Powerful DDOS TOOL
 CREATE IN PYTHON LANGUAGE
 
 # TOTAL REQUEST
-![image](https://www.linkpicture.com/q/orca-image-956701022.jpeg)
+![image](https://www.linkpicture.com/q/orca-image-14067432.jpeg)
 
 # TERMUX INSTALLATION
 

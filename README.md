@@ -3,7 +3,7 @@ Powerful DDOS TOOL
 CREATE IN PYTHON LANGUAGE
 
 # REQUEST PER SECOND
-PICTURE:
+PICTURE: https://github.com/MrHaze01/ddost.py/blob/main/chart.jpeg
 
 # INSTALLATION
 

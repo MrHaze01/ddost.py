@@ -5,7 +5,7 @@ CREATE IN PYTHON LANGUAGE
 # REQUEST PER SECOND
 PICTURE: https://github.com/MrHaze01/ddost.py/blob/main/chart.jpeg
 
-# INSTALLATION
+# TERMUX INSTALLATION
 
 termux-setup-storage
 
@@ -16,6 +16,14 @@ pkg install git
 git clone https://github.com/Mrhaze01/ddost.py
 
 ls
+
+cd ddost.py
+
+python ddost.py
+
+# GOOGLE CLOUD INSTALLATION
+
+git clone https://github.com/Mrhaze01/ddost.py
 
 cd ddost.py
 

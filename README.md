@@ -8,6 +8,8 @@ CREATE IN PYTHON LANGUAGE
 
 # TERMUX INSTALLATION
 
+pip install pycryptodome
+
 apt install git
 
 pkg install git
@@ -21,6 +23,8 @@ cd ddost.py
 python ddost.py
 
 # GOOGLE CLOUD INSTALLATION
+
+pip install pycryptodome
 
 git clone https://github.com/Mrhaze01/ddost.py
 
